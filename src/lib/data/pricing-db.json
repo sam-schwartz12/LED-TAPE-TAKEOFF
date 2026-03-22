@@ -1,0 +1,2819 @@
+{
+  "EN-24100-277-RB2": {
+    "description": "96W 277V ELECTRONIC TRANSFORMER",
+    "pdn": 141.95,
+    "umap": 254.95,
+    "insiderFlag": true,
+    "insiderPrice": 113.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-24100-277-RB2-T": {
+    "description": "120-277V/24VDC 96W ETB TRANSFORMER",
+    "pdn": 141.95,
+    "umap": 254.95,
+    "insiderFlag": true,
+    "insiderPrice": 113.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-24100-P-AR-S": {
+    "description": "120V/24V 100W PLUG IN TRANSFORMER",
+    "pdn": 56.95,
+    "umap": 101.95,
+    "insiderFlag": true,
+    "insiderPrice": 45.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-24100-P-AR-T": {
+    "description": "24V 100W PLUG IN E.TRANSFORMER CLASS 2",
+    "pdn": 54.95,
+    "umap": 98.95,
+    "insiderFlag": true,
+    "insiderPrice": 43.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-24100-RB2": {
+    "description": "E TRANS.120V-24V 100W ENCLOSED CLASS 2",
+    "pdn": 58.95,
+    "umap": 105.95,
+    "insiderFlag": true,
+    "insiderPrice": 47.16,
+    "limitedFlag": true,
+    "limitedPrice": 47.16
+  },
+  "EN-24100-RB2-S": {
+    "description": "120V/24V 100W ETB TRANSFORMER",
+    "pdn": 56.95,
+    "umap": 101.95,
+    "insiderFlag": true,
+    "insiderPrice": 45.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-24100-RB2-T": {
+    "description": "120V/24V 100W ETB TRANSFORMER",
+    "pdn": 52.95,
+    "umap": 94.95,
+    "insiderFlag": true,
+    "insiderPrice": 42.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-2420D-P-BK": {
+    "description": "POWER SUPPLY 24VDC 20W",
+    "pdn": 18.95,
+    "umap": 27.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 15.16
+  },
+  "EN-2420D-P-WT": {
+    "description": "POWER SUPPLY 24VDC 20W",
+    "pdn": 18.95,
+    "umap": 27.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 15.16
+  },
+  "EN-2460-P-AR": {
+    "description": "120V/24V 60W PLUG IN TRANSFORMER",
+    "pdn": 56.95,
+    "umap": 101.95,
+    "insiderFlag": true,
+    "insiderPrice": 45.56,
+    "limitedFlag": true,
+    "limitedPrice": 45.56
+  },
+  "EN-2460-P-AR-S": {
+    "description": "120V/24V 60W PLUG IN TRANSFORMER",
+    "pdn": 54.95,
+    "umap": 98.95,
+    "insiderFlag": true,
+    "insiderPrice": 43.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-2460-P-AR-T": {
+    "description": "120V/24V 60W PLUG IN TRANSFORMER",
+    "pdn": 54.95,
+    "umap": 98.95,
+    "insiderFlag": true,
+    "insiderPrice": 43.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-2460-R2": {
+    "description": "ELEC. TRANS. 24V 60W CLASS 2 ( 1W MIN)",
+    "pdn": 57.95,
+    "umap": 103.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-2460-RB2": {
+    "description": "E TRANS 120V-24V 60W ENCLOSED CLASS 2",
+    "pdn": 56.95,
+    "umap": 101.95,
+    "insiderFlag": true,
+    "insiderPrice": 45.56,
+    "limitedFlag": true,
+    "limitedPrice": 45.56
+  },
+  "EN-2460-RB2-S": {
+    "description": "120V/24V 60W ETB TAPE LIGHT TRANSFORMER",
+    "pdn": 54.95,
+    "umap": 98.95,
+    "insiderFlag": true,
+    "insiderPrice": 43.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-2460-RB2-T": {
+    "description": "120V/24V 60W ETB TAPE LIGHT TRANSFORMER",
+    "pdn": 50.95,
+    "umap": 91.95,
+    "insiderFlag": true,
+    "insiderPrice": 40.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-2465-277-R2-AR": {
+    "description": "277-24V 65W CLASS2 ELECTRIC TRANS",
+    "pdn": 56.95,
+    "umap": 113.0,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-24DC060-UNV-RB2": {
+    "description": "POWER SUPPLY 100-277V TO 24VDC 60W",
+    "pdn": 94.95,
+    "umap": 170.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "EN-24DC096-UNV-RB2": {
+    "description": "POWER SUPPLY 100-277V TO 24VDC 96W",
+    "pdn": 106.95,
+    "umap": 191.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH": {
+    "description": "ALUMINUM CHANNEL 1/2IN X 5FT",
+    "pdn": 30.95,
+    "umap": 55.95,
+    "insiderFlag": true,
+    "insiderPrice": 24.76,
+    "limitedFlag": true,
+    "limitedPrice": 24.76
+  },
+  "LED-T-CH-EC": {
+    "description": "END CAPS FOR LED-T-CH 2 PACK",
+    "pdn": 2.95,
+    "umap": 4.95,
+    "insiderFlag": true,
+    "insiderPrice": 2.36,
+    "limitedFlag": true,
+    "limitedPrice": 2.36
+  },
+  "LED-T-CH-END1-WT": {
+    "description": "ENDCAP FOR INVISILED ALUM CHANNEL - SYM",
+    "pdn": 7.95,
+    "umap": 13.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH-END2L-WT": {
+    "description": "ENDCAP FOR INVISILED ALUM CHANNEL-ASYM",
+    "pdn": 8.95,
+    "umap": 15.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH-END2R-WT": {
+    "description": "ENDCAP FOR INVISILED ALUM CHANNEL-ASYM",
+    "pdn": 8.95,
+    "umap": 15.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH-END3-WT": {
+    "description": "CHANNEL3 END CAP ASSEMBLY W9",
+    "pdn": 9.95,
+    "umap": 17.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH-END4-WT": {
+    "description": "ENDCAP FOR CHANNEL SLIM RECESSED  MUD-IN",
+    "pdn": 7.95,
+    "umap": 13.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH-END5-AL": {
+    "description": "ENDCAP FOR CHANNEL SLIM RECESSED TRIM",
+    "pdn": 7.95,
+    "umap": 13.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH-END5-BK": {
+    "description": "ENDCAP FOR CHANNEL SLIM RECESSED TRIM",
+    "pdn": 7.95,
+    "umap": 13.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH-END5-WT": {
+    "description": "ENDCAP FOR CHANNEL SLIM RECESSED TRIM",
+    "pdn": 7.95,
+    "umap": 13.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH1": {
+    "description": "ALUMINUM CHANNEL 1IN X 5FT",
+    "pdn": 36.95,
+    "umap": 65.95,
+    "insiderFlag": true,
+    "insiderPrice": 29.56,
+    "limitedFlag": true,
+    "limitedPrice": 29.56
+  },
+  "LED-T-CH1-EC": {
+    "description": "END CAPS FOR LED-T-CH1 2 PACK",
+    "pdn": 2.95,
+    "umap": 4.95,
+    "insiderFlag": true,
+    "insiderPrice": 2.36,
+    "limitedFlag": true,
+    "limitedPrice": 2.36
+  },
+  "LED-T-CH2": {
+    "description": "ALUMINUM CHANNEL 45DEG X 5FT",
+    "pdn": 39.95,
+    "umap": 71.95,
+    "insiderFlag": true,
+    "insiderPrice": 31.96,
+    "limitedFlag": true,
+    "limitedPrice": 31.96
+  },
+  "LED-T-CH2-EC": {
+    "description": "END CAPS FOR LED-T-CH2 2 PACK",
+    "pdn": 2.95,
+    "umap": 4.95,
+    "insiderFlag": true,
+    "insiderPrice": 2.36,
+    "limitedFlag": true,
+    "limitedPrice": 2.36
+  },
+  "LED-T-CH3-FL": {
+    "description": "ALUMINUM CHANNEL 1IN X 5FT FL DIFFUSER",
+    "pdn": 47.95,
+    "umap": 85.95,
+    "insiderFlag": true,
+    "insiderPrice": 38.36,
+    "limitedFlag": true,
+    "limitedPrice": 38.36
+  },
+  "LED-T-CH3-SP": {
+    "description": "ALUMINUM CHANNEL 1IN X 5FT SP DIFFUSER",
+    "pdn": 47.95,
+    "umap": 85.95,
+    "insiderFlag": true,
+    "insiderPrice": 38.36,
+    "limitedFlag": true,
+    "limitedPrice": 38.36
+  },
+  "LED-T-CH3-WF": {
+    "description": "ALUMINUM CHANNEL 1IN X 5FT WF DIFFUSER",
+    "pdn": 47.95,
+    "umap": 85.95,
+    "insiderFlag": true,
+    "insiderPrice": 38.36,
+    "limitedFlag": true,
+    "limitedPrice": 38.36
+  },
+  "LED-T-CH4": {
+    "description": "ALUMINUM CHANNEL 0.3IN X 5FT",
+    "pdn": 25.95,
+    "umap": 38.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH4-EC": {
+    "description": "END CAPS FOR LED-T-CH4 2 PACK",
+    "pdn": 2.95,
+    "umap": 3.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH5-AL": {
+    "description": "ALUMINUM CHANNEL SLIM SURFACE MOUNT",
+    "pdn": 30.95,
+    "umap": 55.95,
+    "insiderFlag": true,
+    "insiderPrice": 24.76,
+    "limitedFlag": true,
+    "limitedPrice": 24.76
+  },
+  "LED-T-CH5-BK": {
+    "description": "ALUMINUM CHANNEL SLIM SURFACE MOUNT",
+    "pdn": 30.95,
+    "umap": 55.95,
+    "insiderFlag": true,
+    "insiderPrice": 24.76,
+    "limitedFlag": true,
+    "limitedPrice": 24.76
+  },
+  "LED-T-CH5-COV-BK": {
+    "description": "PC DIFFUSER - 5FT BLACK",
+    "pdn": 11.95,
+    "umap": 20.95,
+    "insiderFlag": true,
+    "insiderPrice": 9.56,
+    "limitedFlag": true,
+    "limitedPrice": 9.56
+  },
+  "LED-T-CH5-COV-FR": {
+    "description": "PC DIFFUSER - 5FT FROSTED",
+    "pdn": 11.95,
+    "umap": 20.95,
+    "insiderFlag": true,
+    "insiderPrice": 9.56,
+    "limitedFlag": true,
+    "limitedPrice": 9.56
+  },
+  "LED-T-CH5-COV-SF": {
+    "description": "PC DIFFUSER - 5FT SEMI CLEAR",
+    "pdn": 11.95,
+    "umap": 20.95,
+    "insiderFlag": true,
+    "insiderPrice": 9.56,
+    "limitedFlag": true,
+    "limitedPrice": 9.56
+  },
+  "LED-T-CH5-EC-AL": {
+    "description": "END CAPS FOR LED-T-CH5 2 PACK",
+    "pdn": 2.95,
+    "umap": 4.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH5-EC-BK": {
+    "description": "END CAPS FOR LED-T-CH5 2 PACK",
+    "pdn": 2.95,
+    "umap": 4.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH5-EC-WT": {
+    "description": "END CAPS FOR LED-T-CH5 2 PACK",
+    "pdn": 2.95,
+    "umap": 4.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH5-WT": {
+    "description": "ALUMINUM CHANNEL SLIM SURFACE MOUNT",
+    "pdn": 30.95,
+    "umap": 55.95,
+    "insiderFlag": true,
+    "insiderPrice": 24.76,
+    "limitedFlag": true,
+    "limitedPrice": 24.76
+  },
+  "LED-T-CH6-AL": {
+    "description": "ALUMINUM CHANNEL ANGLED RECESSED",
+    "pdn": 39.95,
+    "umap": 71.95,
+    "insiderFlag": true,
+    "insiderPrice": 31.96,
+    "limitedFlag": true,
+    "limitedPrice": 31.96
+  },
+  "LED-T-CH6-BK": {
+    "description": "ALUMINUM CHANNEL ANGLED RECESSED",
+    "pdn": 39.95,
+    "umap": 71.95,
+    "insiderFlag": true,
+    "insiderPrice": 31.96,
+    "limitedFlag": true,
+    "limitedPrice": 31.96
+  },
+  "LED-T-CH6-EC-AL": {
+    "description": "END CAPS FOR LED-T-CH6 2 PACK",
+    "pdn": 2.95,
+    "umap": 4.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH6-EC-BK": {
+    "description": "END CAPS FOR LED-T-CH6 2 PACK",
+    "pdn": 2.95,
+    "umap": 4.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH6-EC-WT": {
+    "description": "END CAPS FOR LED-T-CH6 2 PACK",
+    "pdn": 2.95,
+    "umap": 4.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CH6-WT": {
+    "description": "ALUMINUM CHANNEL ANGLED RECESSED",
+    "pdn": 39.95,
+    "umap": 71.95,
+    "insiderFlag": true,
+    "insiderPrice": 31.96,
+    "limitedFlag": true,
+    "limitedPrice": 31.96
+  },
+  "LED-T-CH8-COV-BK": {
+    "description": "PC DIFFUSER - 8FT BLACK",
+    "pdn": 18.95,
+    "umap": 33.95,
+    "insiderFlag": true,
+    "insiderPrice": 15.16,
+    "limitedFlag": true,
+    "limitedPrice": 15.16
+  },
+  "LED-T-CH8-COV-FR": {
+    "description": "PC DIFFUSER - 8FT FROSTED",
+    "pdn": 18.95,
+    "umap": 33.95,
+    "insiderFlag": true,
+    "insiderPrice": 15.16,
+    "limitedFlag": true,
+    "limitedPrice": 15.16
+  },
+  "LED-T-CH8-COV-SF": {
+    "description": "PC DIFFUSER - 8FT SEMI CLEAR",
+    "pdn": 18.95,
+    "umap": 33.95,
+    "insiderFlag": true,
+    "insiderPrice": 15.16,
+    "limitedFlag": true,
+    "limitedPrice": 15.16
+  },
+  "LED-T-CL": {
+    "description": "LED TAPE LIGHT MOUNTING CLIPS",
+    "pdn": 7.95,
+    "umap": 13.95,
+    "insiderFlag": true,
+    "insiderPrice": 6.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CL1": {
+    "description": "INVISILED MOUNTING CLIPS 1 (10 PACK)",
+    "pdn": 7.95,
+    "umap": 13.95,
+    "insiderFlag": true,
+    "insiderPrice": 6.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-CL2-PT": {
+    "description": "2PCS ADJUSTABLE CLIPS FOR INV CHANNELS",
+    "pdn": 9.95,
+    "umap": 17.95,
+    "insiderFlag": true,
+    "insiderPrice": 7.96,
+    "limitedFlag": true,
+    "limitedPrice": 7.96
+  },
+  "LED-T-CL3-PT": {
+    "description": "CLIPS FOR ALUM CHANNELS SET OF 2 PIECES",
+    "pdn": 7.95,
+    "umap": 13.95,
+    "insiderFlag": true,
+    "insiderPrice": 6.36,
+    "limitedFlag": true,
+    "limitedPrice": 6.36
+  },
+  "LED-T-CL5": {
+    "description": "CLIPS FOR ALUM CHANNEL LED-T-CH5 10 PACK",
+    "pdn": 7.95,
+    "umap": 13.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-RBOX1-WT": {
+    "description": "Symmetrical Recessed Channel Power Feed",
+    "pdn": 78.95,
+    "umap": 141.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-RBOX2-WT": {
+    "description": "WIRING BOX - ASYM, W9",
+    "pdn": 89.95,
+    "umap": 161.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-RBOX3-WT": {
+    "description": "WIRING BOX - INDIRECT, W9",
+    "pdn": 101.95,
+    "umap": 182.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-RBOX4-WT": {
+    "description": "WIRING BOX - SYM",
+    "pdn": 69.95,
+    "umap": 125.95,
+    "insiderFlag": true,
+    "insiderPrice": 55.96,
+    "limitedFlag": true,
+    "limitedPrice": 55.96
+  },
+  "LED-T-RBOX5-AL": {
+    "description": "WIRING BOX - SYM",
+    "pdn": 64.95,
+    "umap": 116.95,
+    "insiderFlag": true,
+    "insiderPrice": 51.96,
+    "limitedFlag": true,
+    "limitedPrice": 51.96
+  },
+  "LED-T-RBOX5-BK": {
+    "description": "WIRING BOX - SYM",
+    "pdn": 64.95,
+    "umap": 116.95,
+    "insiderFlag": true,
+    "insiderPrice": 51.96,
+    "limitedFlag": true,
+    "limitedPrice": 51.96
+  },
+  "LED-T-RBOX5-WT": {
+    "description": "WIRING BOX - SYM",
+    "pdn": 64.95,
+    "umap": 116.95,
+    "insiderFlag": true,
+    "insiderPrice": 51.96,
+    "limitedFlag": true,
+    "limitedPrice": 51.96
+  },
+  "LED-T-RC": {
+    "description": "LED TAPE LIGHT - RETROFIT CHANNEL",
+    "pdn": 8.95,
+    "umap": 15.95,
+    "insiderFlag": true,
+    "insiderPrice": 7.16,
+    "limitedFlag": true,
+    "limitedPrice": 7.16
+  },
+  "LED-T-RCH1-WT": {
+    "description": "ALUM CHANNEL FOR INVISILED - SYM, W9",
+    "pdn": 152.95,
+    "umap": 274.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-RCH2-WT": {
+    "description": "ALUM CHANNEL FOR INVISILED - ASYM W9",
+    "pdn": 164.95,
+    "umap": 296.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-RCH3-WT": {
+    "description": "ALUM CHANNEL FOR INVISILED - INDIRECT,W9",
+    "pdn": 252.95,
+    "umap": 454.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-T-RCH4-WT": {
+    "description": "ALUMINUM CHANNEL SLIM RECESSED MUD-IN",
+    "pdn": 116.95,
+    "umap": 209.95,
+    "insiderFlag": true,
+    "insiderPrice": 93.56,
+    "limitedFlag": true,
+    "limitedPrice": 93.56
+  },
+  "LED-T-RCH5-AL": {
+    "description": "ALUMINUM CHANNEL SLIM RECESSED TRIM",
+    "pdn": 105.95,
+    "umap": 190.95,
+    "insiderFlag": true,
+    "insiderPrice": 84.76,
+    "limitedFlag": true,
+    "limitedPrice": 84.76
+  },
+  "LED-T-RCH5-BK": {
+    "description": "ALUMINUM CHANNEL SLIM RECESSED TRIM",
+    "pdn": 105.95,
+    "umap": 190.95,
+    "insiderFlag": true,
+    "insiderPrice": 84.76,
+    "limitedFlag": true,
+    "limitedPrice": 84.76
+  },
+  "LED-T-RCH5-WT": {
+    "description": "ALUMINUM CHANNEL SLIM RECESSED TRIM",
+    "pdn": 105.95,
+    "umap": 190.95,
+    "insiderFlag": true,
+    "insiderPrice": 84.76,
+    "limitedFlag": true,
+    "limitedPrice": 84.76
+  },
+  "LED-TB2422-1": {
+    "description": "INVISILED PRO+ 2200K 1FT",
+    "pdn": 16.95,
+    "umap": 29.95,
+    "insiderFlag": true,
+    "insiderPrice": 13.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2422-1-40": {
+    "description": "INVISILED PRO+ 2200K 1FT 40PCS",
+    "pdn": 595.95,
+    "umap": 1072.95,
+    "insiderFlag": true,
+    "insiderPrice": 476.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2422-2IN": {
+    "description": "INVISILED PRO+ 2200K 2IN",
+    "pdn": 3.95,
+    "umap": 6.95,
+    "insiderFlag": true,
+    "insiderPrice": 3.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2422-2IN-10": {
+    "description": "INVISILED PRO+ 2200K 2IN 10PCS",
+    "pdn": 41.95,
+    "umap": 74.95,
+    "insiderFlag": true,
+    "insiderPrice": 33.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2422-5": {
+    "description": "INVISILED PRO+ 2200K 5FT",
+    "pdn": 77.95,
+    "umap": 139.95,
+    "insiderFlag": true,
+    "insiderPrice": 62.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2422-L": {
+    "description": "INVISILED PRO+ 2200K L",
+    "pdn": 6.95,
+    "umap": 11.95,
+    "insiderFlag": true,
+    "insiderPrice": 5.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2427-1": {
+    "description": "INVISILED PRO+ 2700K 1FT",
+    "pdn": 16.95,
+    "umap": 29.95,
+    "insiderFlag": true,
+    "insiderPrice": 13.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2427-1-40": {
+    "description": "INVISILED PRO+ 2700K 1FT 40PCS",
+    "pdn": 595.95,
+    "umap": 1072.95,
+    "insiderFlag": true,
+    "insiderPrice": 476.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2427-2IN": {
+    "description": "INVISILED PRO+ 2700K 2IN",
+    "pdn": 3.95,
+    "umap": 6.95,
+    "insiderFlag": true,
+    "insiderPrice": 3.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2427-2IN-10": {
+    "description": "INVISILED PRO+ 2700K 2IN 10PCS",
+    "pdn": 41.95,
+    "umap": 74.95,
+    "insiderFlag": true,
+    "insiderPrice": 33.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2427-5": {
+    "description": "INVISILED PRO+ 2700K 5FT",
+    "pdn": 77.95,
+    "umap": 139.95,
+    "insiderFlag": true,
+    "insiderPrice": 62.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2427-L": {
+    "description": "INVISILED PRO+ 2700K L",
+    "pdn": 6.95,
+    "umap": 11.95,
+    "insiderFlag": true,
+    "insiderPrice": 5.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2430-1": {
+    "description": "INVISILED PRO+ 3000K 1FT",
+    "pdn": 16.95,
+    "umap": 29.95,
+    "insiderFlag": true,
+    "insiderPrice": 13.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2430-1-40": {
+    "description": "INVISILED PRO+ 3000K 1FT 40PCS",
+    "pdn": 595.95,
+    "umap": 1072.95,
+    "insiderFlag": true,
+    "insiderPrice": 476.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2430-2IN": {
+    "description": "INVISILED PRO+ 3000K 2IN",
+    "pdn": 3.95,
+    "umap": 6.95,
+    "insiderFlag": true,
+    "insiderPrice": 3.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2430-2IN-10": {
+    "description": "INVISILED PRO+ 3000K 2IN 10PCS",
+    "pdn": 41.95,
+    "umap": 74.95,
+    "insiderFlag": true,
+    "insiderPrice": 33.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2430-5": {
+    "description": "INVISILED PRO+ 3000K 5FT",
+    "pdn": 77.95,
+    "umap": 139.95,
+    "insiderFlag": true,
+    "insiderPrice": 62.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2430-L": {
+    "description": "INVISILED PRO+ 3000K L",
+    "pdn": 6.95,
+    "umap": 11.95,
+    "insiderFlag": true,
+    "insiderPrice": 5.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2435-1": {
+    "description": "INVISILED PRO+ 3500K 1FT",
+    "pdn": 16.95,
+    "umap": 29.95,
+    "insiderFlag": true,
+    "insiderPrice": 13.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2435-1-40": {
+    "description": "INVISILED PRO+ 3500K 1FT 40PCS",
+    "pdn": 595.95,
+    "umap": 1072.95,
+    "insiderFlag": true,
+    "insiderPrice": 476.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2435-2IN": {
+    "description": "INVISILED PRO+ 3500K 2IN",
+    "pdn": 3.95,
+    "umap": 6.95,
+    "insiderFlag": true,
+    "insiderPrice": 3.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2435-2IN-10": {
+    "description": "INVISILED PRO+ 3500K 2IN 10PCS",
+    "pdn": 41.95,
+    "umap": 74.95,
+    "insiderFlag": true,
+    "insiderPrice": 33.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2435-5": {
+    "description": "INVISILED PRO+ 3500K 5FT",
+    "pdn": 77.95,
+    "umap": 139.95,
+    "insiderFlag": true,
+    "insiderPrice": 62.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2435-L": {
+    "description": "INVISILED PRO+ 3500K L",
+    "pdn": 6.95,
+    "umap": 11.95,
+    "insiderFlag": true,
+    "insiderPrice": 5.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2445-1": {
+    "description": "INVISILED PRO+ 4500K 1FT",
+    "pdn": 16.95,
+    "umap": 29.95,
+    "insiderFlag": true,
+    "insiderPrice": 13.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2445-1-40": {
+    "description": "INVISILED PRO+ 4500K 1FT 40PCS",
+    "pdn": 595.95,
+    "umap": 1072.95,
+    "insiderFlag": true,
+    "insiderPrice": 476.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2445-2IN": {
+    "description": "INVISILED PRO+ 4500K 2IN",
+    "pdn": 3.95,
+    "umap": 6.95,
+    "insiderFlag": true,
+    "insiderPrice": 3.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2445-2IN-10": {
+    "description": "INVISILED PRO+ 4500K 2IN 10PCS",
+    "pdn": 41.95,
+    "umap": 74.95,
+    "insiderFlag": true,
+    "insiderPrice": 33.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2445-5": {
+    "description": "INVISILED PRO+ 4500K 5FT",
+    "pdn": 77.95,
+    "umap": 139.95,
+    "insiderFlag": true,
+    "insiderPrice": 62.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TB2445-L": {
+    "description": "INVISILED PRO+ 4500K L",
+    "pdn": 6.95,
+    "umap": 11.95,
+    "insiderFlag": true,
+    "insiderPrice": 5.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC24-SW120": {
+    "description": "INVISILED PALETTE CONNECTING SIGNAL WIRE",
+    "pdn": 41.95,
+    "umap": 74.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC24-SW60": {
+    "description": "INVISILED PALETTE CONNECTING SIGNAL WIRE",
+    "pdn": 25.95,
+    "umap": 46.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2422-1": {
+    "description": "INVISILED PRO2+ 2200K 1FT",
+    "pdn": 20.95,
+    "umap": 37.95,
+    "insiderFlag": true,
+    "insiderPrice": 16.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2422-1-40": {
+    "description": "INVISILED PRO2+ 2200K 1FT 40PCS",
+    "pdn": 774.95,
+    "umap": 1394.95,
+    "insiderFlag": true,
+    "insiderPrice": 619.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2422-2IN": {
+    "description": "INVISILED PRO2+ 2200K 2IN",
+    "pdn": 3.95,
+    "umap": 6.95,
+    "insiderFlag": true,
+    "insiderPrice": 3.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2422-2IN-10": {
+    "description": "INVISILED PRO2+ 2200K 2IN 10PCS",
+    "pdn": 41.95,
+    "umap": 74.95,
+    "insiderFlag": true,
+    "insiderPrice": 33.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2422-5": {
+    "description": "INVISILED PRO2+ 2200K 5FT",
+    "pdn": 101.95,
+    "umap": 182.95,
+    "insiderFlag": true,
+    "insiderPrice": 81.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2422-L": {
+    "description": "INVISILED PRO2+ 2200K L",
+    "pdn": 9.95,
+    "umap": 17.95,
+    "insiderFlag": true,
+    "insiderPrice": 7.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2427-1": {
+    "description": "INVISILED PRO2+ 2700K 1FT",
+    "pdn": 20.95,
+    "umap": 37.95,
+    "insiderFlag": true,
+    "insiderPrice": 16.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2427-1-40": {
+    "description": "INVISILED PRO2+ 2700K 1FT 40PCS",
+    "pdn": 774.95,
+    "umap": 1394.95,
+    "insiderFlag": true,
+    "insiderPrice": 619.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2427-2IN": {
+    "description": "INVISILED PRO2+ 2700K 2IN",
+    "pdn": 3.95,
+    "umap": 6.95,
+    "insiderFlag": true,
+    "insiderPrice": 3.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2427-2IN-10": {
+    "description": "INVISILED PRO2+ 2700K 2IN 10PCS",
+    "pdn": 41.95,
+    "umap": 74.95,
+    "insiderFlag": true,
+    "insiderPrice": 33.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2427-5": {
+    "description": "INVISILED PRO2+ 2700K 5FT",
+    "pdn": 101.95,
+    "umap": 182.95,
+    "insiderFlag": true,
+    "insiderPrice": 81.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2427-L": {
+    "description": "INVISILED PRO2+ 2700K L",
+    "pdn": 9.95,
+    "umap": 17.95,
+    "insiderFlag": true,
+    "insiderPrice": 7.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2430-1": {
+    "description": "INVISILED PRO2+ 3000K 1FT",
+    "pdn": 20.95,
+    "umap": 37.95,
+    "insiderFlag": true,
+    "insiderPrice": 16.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2430-1-40": {
+    "description": "INVISILED PRO2+ 3000K 1FT 40PCS",
+    "pdn": 774.95,
+    "umap": 1394.95,
+    "insiderFlag": true,
+    "insiderPrice": 619.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2430-2IN": {
+    "description": "INVISILED PRO2+ 3000K 2IN",
+    "pdn": 3.95,
+    "umap": 6.95,
+    "insiderFlag": true,
+    "insiderPrice": 3.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2430-2IN-10": {
+    "description": "INVISILED PRO2+ 3000K 2IN 10PCS",
+    "pdn": 41.95,
+    "umap": 74.95,
+    "insiderFlag": true,
+    "insiderPrice": 33.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2430-5": {
+    "description": "INVISILED PRO2+ 3000K 5FT",
+    "pdn": 101.95,
+    "umap": 182.95,
+    "insiderFlag": true,
+    "insiderPrice": 81.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2430-L": {
+    "description": "INVISILED PRO2+ 3000K L",
+    "pdn": 9.95,
+    "umap": 17.95,
+    "insiderFlag": true,
+    "insiderPrice": 7.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2435-1": {
+    "description": "INVISILED PRO2+ 3500K 1FT",
+    "pdn": 20.95,
+    "umap": 37.95,
+    "insiderFlag": true,
+    "insiderPrice": 16.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2435-1-40": {
+    "description": "INVISILED PRO2+ 3500K 1FT 40PCS",
+    "pdn": 774.95,
+    "umap": 1394.95,
+    "insiderFlag": true,
+    "insiderPrice": 619.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2435-2IN": {
+    "description": "INVISILED PRO2+ 3500K 2IN",
+    "pdn": 3.95,
+    "umap": 6.95,
+    "insiderFlag": true,
+    "insiderPrice": 3.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2435-2IN-10": {
+    "description": "INVISILED PRO2+ 3500K 2IN 10PCS",
+    "pdn": 41.95,
+    "umap": 74.95,
+    "insiderFlag": true,
+    "insiderPrice": 33.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2435-5": {
+    "description": "INVISILED PRO2+ 3500K 5FT",
+    "pdn": 101.95,
+    "umap": 182.95,
+    "insiderFlag": true,
+    "insiderPrice": 81.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2435-L": {
+    "description": "INVISILED PRO2+ 3500K L",
+    "pdn": 9.95,
+    "umap": 17.95,
+    "insiderFlag": true,
+    "insiderPrice": 7.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2445-1": {
+    "description": "INVISILED PRO2+ 4500K 1FT",
+    "pdn": 20.95,
+    "umap": 37.95,
+    "insiderFlag": true,
+    "insiderPrice": 16.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2445-1-40": {
+    "description": "INVISILED PRO2+ 4500K 1FT 40PCS",
+    "pdn": 774.95,
+    "umap": 1394.95,
+    "insiderFlag": true,
+    "insiderPrice": 619.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2445-2IN": {
+    "description": "INVISILED PRO2+ 4500K 2IN",
+    "pdn": 3.95,
+    "umap": 6.95,
+    "insiderFlag": true,
+    "insiderPrice": 3.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2445-2IN-10": {
+    "description": "INVISILED PRO2+ 4500K 2IN 10PCS",
+    "pdn": 41.95,
+    "umap": 74.95,
+    "insiderFlag": true,
+    "insiderPrice": 33.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2445-5": {
+    "description": "INVISILED PRO2+ 4500K 5FT",
+    "pdn": 101.95,
+    "umap": 182.95,
+    "insiderFlag": true,
+    "insiderPrice": 81.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "LED-TC2445-L": {
+    "description": "INVISILED PRO2+ 4500K L",
+    "pdn": 9.95,
+    "umap": 17.95,
+    "insiderFlag": true,
+    "insiderPrice": 7.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-288R-TW-DU": {
+    "description": "WAC MESH PSC 24VDC 3X96W 120-277V",
+    "pdn": 249.95,
+    "umap": 449.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-60P-DU": {
+    "description": "PS CCT SELECT 120V 60W 24VDC PORTABLE",
+    "pdn": 79.95,
+    "umap": 143.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-60P-GE": {
+    "description": "PS 120V 60W 24VDC PORTABLE ON/OFF SWITCH",
+    "pdn": 49.95,
+    "umap": 74.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 39.96
+  },
+  "PS-24DC-96P-DU": {
+    "description": "PS CCT SELECT 120V 96W 24VDC PORTABLE",
+    "pdn": 89.95,
+    "umap": 161.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-96R-TW-DU": {
+    "description": "WAC MESH PSC 24VDC 96W 120-277V",
+    "pdn": 166.95,
+    "umap": 299.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-A96P-OD": {
+    "description": "INVISILED OUTDOOR PS 24VDC 96W 6PIN PORT",
+    "pdn": 101.95,
+    "umap": 182.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-A96P-WE": {
+    "description": "PS 120V 96W 24VDC IP67 PORTABLE",
+    "pdn": 101.95,
+    "umap": 182.95,
+    "insiderFlag": true,
+    "insiderPrice": 81.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U288R-CSDU": {
+    "description": "PS CCT DUET 120V-277V 288W 24VDC",
+    "pdn": 199.99,
+    "umap": 359.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U300R": {
+    "description": "PS 120-277V 300W 24VDC",
+    "pdn": 237.95,
+    "umap": 427.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U3X96R": {
+    "description": "3 X 96W 24VDC REMOTE POWER SUPPLY",
+    "pdn": 273.95,
+    "umap": 492.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U3X96R-BT": {
+    "description": "3 X 96W 24VDC REMOTE POWER SUPPLY",
+    "pdn": 276.95,
+    "umap": 414.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 221.56
+  },
+  "PS-24DC-U3X96R-T": {
+    "description": "3 X 96W 24VDC REMOTE POWER SUPPLY",
+    "pdn": 310.95,
+    "umap": 559.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U60R-BT": {
+    "description": "PS 120-277V 60W 24VDC REMOTE",
+    "pdn": 81.95,
+    "umap": 122.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 65.56
+  },
+  "PS-24DC-U60R-CS-DU": {
+    "description": "PS CCT DUET 120V-277V 60W 24VDC",
+    "pdn": 74.95,
+    "umap": 134.95,
+    "insiderFlag": true,
+    "insiderPrice": 59.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U60R-CS-SM": {
+    "description": "PS CCT SELECT 120V-277V 60W 24VDC REMOTE",
+    "pdn": 84.95,
+    "umap": 152.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U60R-T": {
+    "description": "PS 120V-277V 60W 24VDC REMOTE",
+    "pdn": 94.95,
+    "umap": 170.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U60R-WD-SM": {
+    "description": "PS DIM-TO-WARM 120-277V 60W 24VDC REMOTE",
+    "pdn": 84.95,
+    "umap": 152.95,
+    "insiderFlag": true,
+    "insiderPrice": 67.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U96R-BT": {
+    "description": "PS 120-277V 96W 24VDC REMOTE",
+    "pdn": 91.95,
+    "umap": 137.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 73.56
+  },
+  "PS-24DC-U96R-CS-DU": {
+    "description": "PS CCT DUET 120V-277V 96W 24VDC",
+    "pdn": 86.95,
+    "umap": 155.95,
+    "insiderFlag": true,
+    "insiderPrice": 69.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U96R-CS-SM": {
+    "description": "PS CCT SELECT 120V-277V 96W 24VDC REMOTE",
+    "pdn": 96.95,
+    "umap": 173.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U96R-IP45": {
+    "description": "INVISILED OUTDOOR PS 24VDC 96W 6PIN IP45",
+    "pdn": 56.95,
+    "umap": 101.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U96R-IP67": {
+    "description": "INVISILED OUTDOOR PS 24VDC 96W 6PIN IP67",
+    "pdn": 95.95,
+    "umap": 172.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U96R-S6": {
+    "description": "PS 120-277V 96W 24VDC 6FT OUTPUT LEAD",
+    "pdn": 106.95,
+    "umap": 191.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U96R-T": {
+    "description": "PS 120V-277V 96W 24VDC REMOTE",
+    "pdn": 106.95,
+    "umap": 191.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U96R-WD-SM": {
+    "description": "PS DIM-TO-WARM 120-277V 96W 24VDC REMOTE",
+    "pdn": 96.95,
+    "umap": 173.95,
+    "insiderFlag": true,
+    "insiderPrice": 77.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "PS-24DC-U96R-WE": {
+    "description": "PS 120-277V 96W 24VDC IP67 RATED REMOTE",
+    "pdn": 90.95,
+    "umap": 163.95,
+    "insiderFlag": true,
+    "insiderPrice": 72.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-BS-CL1": {
+    "description": "MOUNTING CLIP FOR BASICS TAPE 10PACK",
+    "pdn": 4.95,
+    "umap": 6.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 3.96
+  },
+  "T24-BS-EX2-072-BK": {
+    "description": "IN WALL RATED EXTENSION CABLE 6FT",
+    "pdn": 8.95,
+    "umap": 12.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 7.16
+  },
+  "T24-BS-EX2-072-WT": {
+    "description": "IN WALL RATED EXTENSION CABLE 6FT",
+    "pdn": 8.95,
+    "umap": 12.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 7.16
+  },
+  "T24-BS-EX2-144-BK": {
+    "description": "IN WALL RATED EXTENSION CABLE 12FT",
+    "pdn": 14.95,
+    "umap": 21.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 11.96
+  },
+  "T24-BS-EX2-144-WT": {
+    "description": "IN WALL RATED EXTENSION CABLE 12FT",
+    "pdn": 14.95,
+    "umap": 21.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 11.96
+  },
+  "T24-BS-EX2-240-BK": {
+    "description": "IN WALL RATED EXTENSION CABLE 20FT",
+    "pdn": 19.95,
+    "umap": 29.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 15.96
+  },
+  "T24-BS-EX2-240-WT": {
+    "description": "IN WALL RATED EXTENSION CABLE 20FT",
+    "pdn": 19.95,
+    "umap": 29.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 15.96
+  },
+  "T24-BS-EX2-480-BK": {
+    "description": "IN WALL RATED EXTENSION CABLE 40FT",
+    "pdn": 32.95,
+    "umap": 48.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 26.36
+  },
+  "T24-BS-EX2-480-WT": {
+    "description": "IN WALL RATED EXTENSION CABLE 40FT",
+    "pdn": 32.95,
+    "umap": 48.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 26.36
+  },
+  "T24-BS-IC-002-BK": {
+    "description": "IN WALL RATED JOINER CABLE 2IN",
+    "pdn": 6.95,
+    "umap": 9.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 5.56
+  },
+  "T24-BS-IC-002-WT": {
+    "description": "IN WALL RATED JOINER CABLE 2IN",
+    "pdn": 6.95,
+    "umap": 9.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 5.56
+  },
+  "T24-BS-IC-006-BK": {
+    "description": "IN WALL RATED JOINER CABLE 6IN",
+    "pdn": 7.95,
+    "umap": 11.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 6.36
+  },
+  "T24-BS-IC-006-WT": {
+    "description": "IN WALL RATED JOINER CABLE 6IN",
+    "pdn": 7.95,
+    "umap": 11.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 6.36
+  },
+  "T24-BS-IC-012-BK": {
+    "description": "IN WALL RATED JOINER CABLE 12IN",
+    "pdn": 8.95,
+    "umap": 12.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 7.16
+  },
+  "T24-BS-IC-012-WT": {
+    "description": "IN WALL RATED JOINER CABLE 12IN",
+    "pdn": 8.95,
+    "umap": 12.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 7.16
+  },
+  "T24-BS-IC-036-BK": {
+    "description": "IN WALL RATED JOINER CABLE 3FT",
+    "pdn": 11.95,
+    "umap": 17.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 9.56
+  },
+  "T24-BS-IC-036-WT": {
+    "description": "IN WALL RATED JOINER CABLE 3FT",
+    "pdn": 11.95,
+    "umap": 17.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 9.56
+  },
+  "T24-BS-IC-072-BK": {
+    "description": "IN WALL RATED JOINER CABLE 6FT",
+    "pdn": 12.95,
+    "umap": 18.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 10.36
+  },
+  "T24-BS-IC-072-WT": {
+    "description": "IN WALL RATED JOINER CABLE 6FT",
+    "pdn": 12.95,
+    "umap": 18.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 10.36
+  },
+  "T24-BS-L-CL": {
+    "description": "24VDC BASICS CORNER TAPE CONN 2PACK",
+    "pdn": 8.95,
+    "umap": 12.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 7.16
+  },
+  "T24-BS-MM-CL": {
+    "description": "24VDC BASICS INLINE TAPE CONN 10PACK",
+    "pdn": 21.95,
+    "umap": 32.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 17.56
+  },
+  "T24-BS-PM-CL": {
+    "description": "24VDC BASICS POWER TO TAPE CONN 10PCS",
+    "pdn": 21.95,
+    "umap": 32.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 17.56
+  },
+  "T24-BS-X-BK": {
+    "description": "24VDC BASICS FLEX TAPE TO TAPE X CONN",
+    "pdn": 12.95,
+    "umap": 18.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 10.36
+  },
+  "T24-BS-X-WT": {
+    "description": "24VDC BASICS FLEX TAPE TO TAPE X CONN",
+    "pdn": 12.95,
+    "umap": 18.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 10.36
+  },
+  "T24-BS-Y-BK": {
+    "description": "24VDC BASICS FLEX TAPE TO TAPE Y CONN",
+    "pdn": 11.95,
+    "umap": 17.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 9.56
+  },
+  "T24-BS-Y-WT": {
+    "description": "24VDC BASICS FLEX TAPE TO TAPE Y CONN",
+    "pdn": 11.95,
+    "umap": 17.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 9.56
+  },
+  "T24-BS1-100-27WT": {
+    "description": "BASICS 100 24VDC 2700K 100FT",
+    "pdn": 399.95,
+    "umap": 599.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-BS1-100-30WT": {
+    "description": "BASICS 100 24VDC 3000K 100FT",
+    "pdn": 399.95,
+    "umap": 599.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-BS2-100-27WT": {
+    "description": "BASICS 200 24VDC 2700K 100FT",
+    "pdn": 499.95,
+    "umap": 749.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-BS2-100-30WT": {
+    "description": "BASICS 200 24VDC 3000K 100FT",
+    "pdn": 499.95,
+    "umap": 749.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-BS2-100-35WT": {
+    "description": "BASICS 200 24VDC 3500K 100FT",
+    "pdn": 499.95,
+    "umap": 749.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-BS2-40-30WT": {
+    "description": "BASICS 200 24VDC 3000K 40FT",
+    "pdn": 219.95,
+    "umap": 329.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-CL": {
+    "description": "INVISILED DUET MOUNTING CLIP 10PACK",
+    "pdn": 5.95,
+    "umap": 10.95,
+    "insiderFlag": true,
+    "insiderPrice": 4.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-EX2-072-BK": {
+    "description": "INVISILED DUET EXTENSION CABLE 6FT",
+    "pdn": 10.95,
+    "umap": 19.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-EX2-072-WT": {
+    "description": "INVISILED DUET EXTENSION CABLE 6FT",
+    "pdn": 10.95,
+    "umap": 19.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-EX2-144-BK": {
+    "description": "INVISILED DUET EXTENSION CABLE 12FT",
+    "pdn": 16.95,
+    "umap": 29.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-EX2-144-WT": {
+    "description": "INVISILED DUET EXTENSION CABLE 12FT",
+    "pdn": 16.95,
+    "umap": 29.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-EX2-240-BK": {
+    "description": "INVISILED DUET EXTENSION CABLE 20FT",
+    "pdn": 22.95,
+    "umap": 40.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-EX2-240-WT": {
+    "description": "INVISILED DUET EXTENSION CABLE 20FT",
+    "pdn": 22.95,
+    "umap": 40.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-EX2-480-BK": {
+    "description": "INVISILED DUET EXTENSION CABLE 40FT",
+    "pdn": 36.95,
+    "umap": 65.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-EX2-480-WT": {
+    "description": "INVISILED DUET EXTENSION CABLE 40FT",
+    "pdn": 36.95,
+    "umap": 65.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-IC-002-BK": {
+    "description": "INVISILED DUET JOINER CABLE 2IN",
+    "pdn": 7.95,
+    "umap": 13.95,
+    "insiderFlag": true,
+    "insiderPrice": 6.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-IC-002-WT": {
+    "description": "INVISILED DUET JOINER CABLE 2IN",
+    "pdn": 7.95,
+    "umap": 13.95,
+    "insiderFlag": true,
+    "insiderPrice": 6.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-IC-006-BK": {
+    "description": "INVISILED DUET JOINER CABLE 6IN",
+    "pdn": 8.95,
+    "umap": 15.95,
+    "insiderFlag": true,
+    "insiderPrice": 7.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-IC-006-WT": {
+    "description": "INVISILED DUET JOINER CABLE 6IN",
+    "pdn": 8.95,
+    "umap": 15.95,
+    "insiderFlag": true,
+    "insiderPrice": 7.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-IC-012-BK": {
+    "description": "INVISILED DUET JOINER CABLE 12IN",
+    "pdn": 10.95,
+    "umap": 19.95,
+    "insiderFlag": true,
+    "insiderPrice": 8.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-IC-012-WT": {
+    "description": "INVISILED DUET JOINER CABLE 12IN",
+    "pdn": 10.95,
+    "umap": 19.95,
+    "insiderFlag": true,
+    "insiderPrice": 8.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-IC-036-BK": {
+    "description": "INVISILED DUET JOINER CABLE 3FT",
+    "pdn": 12.95,
+    "umap": 22.95,
+    "insiderFlag": true,
+    "insiderPrice": 10.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-IC-036-WT": {
+    "description": "INVISILED DUET JOINER CABLE 3FT",
+    "pdn": 12.95,
+    "umap": 22.95,
+    "insiderFlag": true,
+    "insiderPrice": 10.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-IC-072-BK": {
+    "description": "INVISILED DUET JOINER CABLE 6FT",
+    "pdn": 13.95,
+    "umap": 24.95,
+    "insiderFlag": true,
+    "insiderPrice": 11.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-IC-072-WT": {
+    "description": "INVISILED DUET JOINER CABLE 6FT",
+    "pdn": 13.95,
+    "umap": 24.95,
+    "insiderFlag": true,
+    "insiderPrice": 11.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-L-CL": {
+    "description": "INVISILED DUET CORNER TAPE TO TAPE CONN",
+    "pdn": 10.95,
+    "umap": 19.95,
+    "insiderFlag": true,
+    "insiderPrice": 8.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-MM-CL": {
+    "description": "INVISILED DUET INLINE TAPE TO TAPE CONN",
+    "pdn": 24.95,
+    "umap": 44.95,
+    "insiderFlag": true,
+    "insiderPrice": 19.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-PM-CL": {
+    "description": "INVISILED DUET POWER TO TAPE CONN",
+    "pdn": 24.95,
+    "umap": 44.95,
+    "insiderFlag": true,
+    "insiderPrice": 19.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-X-BK": {
+    "description": "INVISILED DUET FLEX TAPE TO TAPE X CONN",
+    "pdn": 13.95,
+    "umap": 24.95,
+    "insiderFlag": true,
+    "insiderPrice": 11.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-X-WT": {
+    "description": "INVISILED DUET FLEX TAPE TO TAPE X CONN",
+    "pdn": 13.95,
+    "umap": 24.95,
+    "insiderFlag": true,
+    "insiderPrice": 11.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-Y-BK": {
+    "description": "INVISILED DUET FLEX TAPE TO TAPE Y CONN",
+    "pdn": 12.95,
+    "umap": 22.95,
+    "insiderFlag": true,
+    "insiderPrice": 10.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU-Y-WT": {
+    "description": "INVISILED DUET FLEX TAPE TO TAPE Y CONN",
+    "pdn": 12.95,
+    "umap": 22.95,
+    "insiderFlag": true,
+    "insiderPrice": 10.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU1-01-A": {
+    "description": "INVISILED DUET 100 24VDC 1800-4000K 1FT",
+    "pdn": 13.95,
+    "umap": 24.95,
+    "insiderFlag": true,
+    "insiderPrice": 11.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU1-01-B": {
+    "description": "INVISILED DUET 100 24VDC 2700-5000K 1FT",
+    "pdn": 13.95,
+    "umap": 24.95,
+    "insiderFlag": true,
+    "insiderPrice": 11.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU1-05-A": {
+    "description": "INVISILED DUET 100 24VDC 1800-4000K 5FT",
+    "pdn": 66.95,
+    "umap": 119.95,
+    "insiderFlag": true,
+    "insiderPrice": 53.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU1-05-B": {
+    "description": "INVISILED DUET 100 24VDC 2700-5000K 5FT",
+    "pdn": 66.95,
+    "umap": 119.95,
+    "insiderFlag": true,
+    "insiderPrice": 53.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU1-10-A": {
+    "description": "INVISILED DUET 100 24VDC 1800-4000K 10FT",
+    "pdn": 130.95,
+    "umap": 235.95,
+    "insiderFlag": true,
+    "insiderPrice": 104.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU1-10-B": {
+    "description": "INVISILED DUET 100 24VDC 2700-5000K 10FT",
+    "pdn": 130.95,
+    "umap": 235.95,
+    "insiderFlag": true,
+    "insiderPrice": 104.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU1-20-A": {
+    "description": "INVISILED DUET 100 24VDC 1800-4000K 20FT",
+    "pdn": 261.95,
+    "umap": 470.95,
+    "insiderFlag": true,
+    "insiderPrice": 209.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU1-20-B": {
+    "description": "INVISILED DUET 100 24VDC 2700-5000K 20FT",
+    "pdn": 261.95,
+    "umap": 470.95,
+    "insiderFlag": true,
+    "insiderPrice": 209.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU1-60-A": {
+    "description": "INVISILED DUET 100 24VDC 1800-4000K 60FT",
+    "pdn": 768.95,
+    "umap": 1383.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU1-60-B": {
+    "description": "INVISILED DUET 100 24VDC 2700-5000K 60FT",
+    "pdn": 768.95,
+    "umap": 1383.95,
+    "insiderFlag": true,
+    "insiderPrice": 615.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU10-01-A": {
+    "description": "INVISILED DUET 1000 24VDC 1800-4000K 1FT",
+    "pdn": 25.95,
+    "umap": 46.95,
+    "insiderFlag": true,
+    "insiderPrice": 20.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU10-01-B": {
+    "description": "INVISILED DUET 1000 24VDC 2700-5000K 1FT",
+    "pdn": 25.95,
+    "umap": 46.95,
+    "insiderFlag": true,
+    "insiderPrice": 20.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU10-05-A": {
+    "description": "INVISILED DUET 1000 24VDC 1800-4000K 5FT",
+    "pdn": 130.95,
+    "umap": 235.95,
+    "insiderFlag": true,
+    "insiderPrice": 104.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU10-05-B": {
+    "description": "INVISILED DUET 1000 24VDC 2700-5000K 5FT",
+    "pdn": 130.95,
+    "umap": 235.95,
+    "insiderFlag": true,
+    "insiderPrice": 104.76,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU10-10-A": {
+    "description": "INVISILED DUET 1000 24VDC 1800-4000 10FT",
+    "pdn": 261.95,
+    "umap": 470.95,
+    "insiderFlag": true,
+    "insiderPrice": 209.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU10-10-B": {
+    "description": "INVISILED DUET 1000 24VDC 2700-5000K 10F",
+    "pdn": 261.95,
+    "umap": 470.95,
+    "insiderFlag": true,
+    "insiderPrice": 209.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU2-01-A": {
+    "description": "INVISILED DUET 200 24VDC 1800-4000K 1FT",
+    "pdn": 16.95,
+    "umap": 29.95,
+    "insiderFlag": true,
+    "insiderPrice": 13.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU2-01-B": {
+    "description": "INVISILED DUET 200 24VDC 2700-5000K 1FT",
+    "pdn": 16.95,
+    "umap": 29.95,
+    "insiderFlag": true,
+    "insiderPrice": 13.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU2-05-A": {
+    "description": "INVISILED DUET 200 24VDC 1800-4000K 5FT",
+    "pdn": 77.95,
+    "umap": 139.95,
+    "insiderFlag": true,
+    "insiderPrice": 62.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU2-05-B": {
+    "description": "INVISILED DUET 200 24VDC 2700-5000K 5FT",
+    "pdn": 77.95,
+    "umap": 139.95,
+    "insiderFlag": true,
+    "insiderPrice": 62.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU2-10-A": {
+    "description": "INVISILED DUET 200 24VDC 1800-4000K 10FT",
+    "pdn": 154.95,
+    "umap": 278.95,
+    "insiderFlag": true,
+    "insiderPrice": 123.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU2-10-B": {
+    "description": "INVISILED DUET 200 24VDC 2700-5000K 10FT",
+    "pdn": 154.95,
+    "umap": 278.95,
+    "insiderFlag": true,
+    "insiderPrice": 123.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU2-20-A": {
+    "description": "INVISILED DUET 200 24VDC 1800-4000K 20FT",
+    "pdn": 309.95,
+    "umap": 557.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU2-20-B": {
+    "description": "INVISILED DUET 200 24VDC 2700-5000K 20FT",
+    "pdn": 309.95,
+    "umap": 557.95,
+    "insiderFlag": true,
+    "insiderPrice": 247.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU2-40-A": {
+    "description": "INVISILED DUET 200 24VDC 1800-4000K 40FT",
+    "pdn": 594.95,
+    "umap": 1070.95,
+    "insiderFlag": true,
+    "insiderPrice": 475.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU2-40-B": {
+    "description": "INVISILED DUET 200 24VDC 2700-5000K 40FT",
+    "pdn": 594.95,
+    "umap": 1070.95,
+    "insiderFlag": true,
+    "insiderPrice": 475.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU3-01-A": {
+    "description": "INVISILED DUET 300 24VDC 1800-4000K 1FT",
+    "pdn": 18.95,
+    "umap": 33.95,
+    "insiderFlag": true,
+    "insiderPrice": 15.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU3-01-B": {
+    "description": "INVISILED DUET 300 24VDC 2700-5000K 1FT",
+    "pdn": 18.95,
+    "umap": 33.95,
+    "insiderFlag": true,
+    "insiderPrice": 15.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU3-05-A": {
+    "description": "INVISILED DUET 300 24VDC 1800-4000K 5FT",
+    "pdn": 89.95,
+    "umap": 161.95,
+    "insiderFlag": true,
+    "insiderPrice": 71.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU3-05-B": {
+    "description": "INVISILED DUET 300 24VDC 2700-5000K 5FT",
+    "pdn": 89.95,
+    "umap": 161.95,
+    "insiderFlag": true,
+    "insiderPrice": 71.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU3-10-A": {
+    "description": "INVISILED DUET 300 24VDC 1800-4000K 10FT",
+    "pdn": 178.95,
+    "umap": 321.95,
+    "insiderFlag": true,
+    "insiderPrice": 143.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU3-10-B": {
+    "description": "INVISILED DUET 300 24VDC 2700-5000K 10FT",
+    "pdn": 178.95,
+    "umap": 321.95,
+    "insiderFlag": true,
+    "insiderPrice": 143.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU3-20-A": {
+    "description": "INVISILED DUET 300 24VDC 1800-4000K 20FT",
+    "pdn": 356.95,
+    "umap": 641.95,
+    "insiderFlag": true,
+    "insiderPrice": 285.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU3-20-B": {
+    "description": "INVISILED DUET 300 24VDC 2700-5000K 20FT",
+    "pdn": 356.95,
+    "umap": 641.95,
+    "insiderFlag": true,
+    "insiderPrice": 285.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU3-30-A": {
+    "description": "INVISILED DUET 300 24VDC 1800-4000K 30FT",
+    "pdn": 511.95,
+    "umap": 920.95,
+    "insiderFlag": true,
+    "insiderPrice": 409.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU3-30-B": {
+    "description": "INVISILED DUET 300 24VDC 2700-5000K 30FT",
+    "pdn": 511.95,
+    "umap": 920.95,
+    "insiderFlag": true,
+    "insiderPrice": 409.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU4-01-A": {
+    "description": "INVISILED DUET 400 24VDC 1800-4000K 1FT",
+    "pdn": 22.95,
+    "umap": 40.95,
+    "insiderFlag": true,
+    "insiderPrice": 18.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU4-01-B": {
+    "description": "INVISILED DUET 400 24VDC 2700-5000K 1FT",
+    "pdn": 22.95,
+    "umap": 40.95,
+    "insiderFlag": true,
+    "insiderPrice": 18.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU4-05-A": {
+    "description": "INVISILED DUET 400 24VDC 1800-4000K 5FT",
+    "pdn": 106.95,
+    "umap": 191.95,
+    "insiderFlag": true,
+    "insiderPrice": 85.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU4-05-B": {
+    "description": "INVISILED DUET 400 24VDC 2700-5000K 5FT",
+    "pdn": 106.95,
+    "umap": 191.95,
+    "insiderFlag": true,
+    "insiderPrice": 85.56,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU4-10-A": {
+    "description": "INVISILED DUET 400 24VDC 1800-4000K 10FT",
+    "pdn": 213.95,
+    "umap": 384.95,
+    "insiderFlag": true,
+    "insiderPrice": 171.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU4-10-B": {
+    "description": "INVISILED DUET 400 24VDC 2700-5000K 10FT",
+    "pdn": 213.95,
+    "umap": 384.95,
+    "insiderFlag": true,
+    "insiderPrice": 171.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU4-20-A": {
+    "description": "INVISILED DUET 400 24VDC 1800-4000K 20FT",
+    "pdn": 404.95,
+    "umap": 728.95,
+    "insiderFlag": true,
+    "insiderPrice": 323.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU4-20-B": {
+    "description": "INVISILED DUET 400 24VDC 2700-5000K 20FT",
+    "pdn": 404.95,
+    "umap": 728.95,
+    "insiderFlag": true,
+    "insiderPrice": 323.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU6-01-A": {
+    "description": "INVISILED DUET 600 24VDC 1800-4000K 1FT",
+    "pdn": 24.95,
+    "umap": 44.95,
+    "insiderFlag": true,
+    "insiderPrice": 19.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU6-01-B": {
+    "description": "INVISILED DUET 600 24VDC 2700-5000K 1FT",
+    "pdn": 24.95,
+    "umap": 44.95,
+    "insiderFlag": true,
+    "insiderPrice": 19.96,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU6-05-A": {
+    "description": "INVISILED DUET 600 24VDC 1800-4000K 5FT",
+    "pdn": 118.95,
+    "umap": 213.95,
+    "insiderFlag": true,
+    "insiderPrice": 95.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU6-05-B": {
+    "description": "INVISILED DUET 600 24VDC 2700-5000K 5FT",
+    "pdn": 118.95,
+    "umap": 213.95,
+    "insiderFlag": true,
+    "insiderPrice": 95.16,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU6-10-A": {
+    "description": "INVISILED DUET 600 24VDC 1800-4000K 10FT",
+    "pdn": 237.95,
+    "umap": 427.95,
+    "insiderFlag": true,
+    "insiderPrice": 190.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU6-10-B": {
+    "description": "INVISILED DUET 600 24VDC 2700-5000K 10FT",
+    "pdn": 237.95,
+    "umap": 427.95,
+    "insiderFlag": true,
+    "insiderPrice": 190.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU6-15-A": {
+    "description": "INVISILED DUET 600 24VDC 1800-4000K 15FT",
+    "pdn": 332.95,
+    "umap": 598.95,
+    "insiderFlag": true,
+    "insiderPrice": 266.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-DU6-15-B": {
+    "description": "INVISILED DUET 600 24VDC 2700-5000K 15FT",
+    "pdn": 332.95,
+    "umap": 598.95,
+    "insiderFlag": true,
+    "insiderPrice": 266.36,
+    "limitedFlag": false,
+    "limitedPrice": null
+  },
+  "T24-GE1-100-27WT": {
+    "description": "GEMINI TAPE 100 24VDC 2700K 100FT",
+    "pdn": 529.95,
+    "umap": 794.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 423.96
+  },
+  "T24-GE1-100-30WT": {
+    "description": "GEMINI TAPE 100 24VDC 3000K 100FT",
+    "pdn": 529.95,
+    "umap": 794.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 423.96
+  },
+  "T24-GE1-100-35WT": {
+    "description": "GEMINI TAPE 100 24VDC 3500K 100FT",
+    "pdn": 529.95,
+    "umap": 794.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 423.96
+  },
+  "T24-GE1-100-40WT": {
+    "description": "GEMINI TAPE 100 24VDC 4000K 100FT",
+    "pdn": 529.95,
+    "umap": 794.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 423.96
+  },
+  "T24-GE1-15-27WT": {
+    "description": "GEMINI TAPE 100 24VDC 2700K 15FT",
+    "pdn": 85.95,
+    "umap": 128.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 68.76
+  },
+  "T24-GE1-15-30WT": {
+    "description": "GEMINI TAPE 100 24VDC 3000K 15FT",
+    "pdn": 85.95,
+    "umap": 128.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 68.76
+  },
+  "T24-GE1-15-35WT": {
+    "description": "GEMINI TAPE 100 24VDC 3500K 15FT",
+    "pdn": 85.95,
+    "umap": 128.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 68.76
+  },
+  "T24-GE1-15-40WT": {
+    "description": "GEMINI TAPE 100 24VDC 4000K 15FT",
+    "pdn": 85.95,
+    "umap": 128.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 68.76
+  },
+  "T24-GE1-24-27WT": {
+    "description": "GEMINI TAPE 100 24VDC 2700K 24FT",
+    "pdn": 132.95,
+    "umap": 198.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 106.36
+  },
+  "T24-GE1-24-30WT": {
+    "description": "GEMINI TAPE 100 24VDC 3000K 24FT",
+    "pdn": 132.95,
+    "umap": 198.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 106.36
+  },
+  "T24-GE1-24-35WT": {
+    "description": "GEMINI TAPE 100 24VDC 3500K 24FT",
+    "pdn": 132.95,
+    "umap": 198.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 106.36
+  },
+  "T24-GE1-24-40WT": {
+    "description": "GEMINI TAPE 100 24VDC 4000K 24FT",
+    "pdn": 132.95,
+    "umap": 198.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 106.36
+  },
+  "T24-GE2-100-27WT": {
+    "description": "GEMINI TAPE 200 24VDC 2700K 100FT",
+    "pdn": 593.95,
+    "umap": 890.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 475.16
+  },
+  "T24-GE2-100-30WT": {
+    "description": "GEMINI TAPE 200 24VDC 3000K 100FT",
+    "pdn": 593.95,
+    "umap": 890.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 475.16
+  },
+  "T24-GE2-100-35WT": {
+    "description": "GEMINI TAPE 200 24VDC 3500K 100FT",
+    "pdn": 593.95,
+    "umap": 890.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 475.16
+  },
+  "T24-GE2-100-40WT": {
+    "description": "GEMINI TAPE 200 24VDC 4000K 100FT",
+    "pdn": 593.95,
+    "umap": 890.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 475.16
+  },
+  "T24-GE2-15-27WT": {
+    "description": "GEMINI TAPE 200 24VDC 2700K 15FT",
+    "pdn": 96.95,
+    "umap": 144.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 77.56
+  },
+  "T24-GE2-15-30WT": {
+    "description": "GEMINI TAPE 200 24VDC 3000K 15FT",
+    "pdn": 96.95,
+    "umap": 144.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 77.56
+  },
+  "T24-GE2-15-35WT": {
+    "description": "GEMINI TAPE 200 24VDC 3500K 15FT",
+    "pdn": 96.95,
+    "umap": 144.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 77.56
+  },
+  "T24-GE2-15-40WT": {
+    "description": "GEMINI TAPE 200 24VDC 4000K 15FT",
+    "pdn": 96.95,
+    "umap": 144.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 77.56
+  },
+  "T24-GE2-24-27WT": {
+    "description": "GEMINI TAPE 200 24VDC 2700K 24FT",
+    "pdn": 147.95,
+    "umap": 221.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 118.36
+  },
+  "T24-GE2-24-30WT": {
+    "description": "GEMINI TAPE 200 24VDC 3000K 24FT",
+    "pdn": 147.95,
+    "umap": 221.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 118.36
+  },
+  "T24-GE2-24-35WT": {
+    "description": "GEMINI TAPE 200 24VDC 3500K 24FT",
+    "pdn": 147.95,
+    "umap": 221.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 118.36
+  },
+  "T24-GE2-24-40WT": {
+    "description": "GEMINI TAPE 200 24VDC 4000K 24FT",
+    "pdn": 147.95,
+    "umap": 221.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 118.36
+  },
+  "T24-GE3-100-27WT": {
+    "description": "GEMINI TAPE 300 24VDC 2700K 100FT",
+    "pdn": 657.95,
+    "umap": 986.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 526.36
+  },
+  "T24-GE3-100-30WT": {
+    "description": "GEMINI TAPE 300 24VDC 3000K 100FT",
+    "pdn": 657.95,
+    "umap": 986.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 526.36
+  },
+  "T24-GE3-100-35WT": {
+    "description": "GEMINI TAPE 300 24VDC 3500K 100FT",
+    "pdn": 657.95,
+    "umap": 986.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 526.36
+  },
+  "T24-GE3-100-40WT": {
+    "description": "GEMINI TAPE 300 24VDC 4000K 100FT",
+    "pdn": 657.95,
+    "umap": 986.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 526.36
+  },
+  "T24-GE3-15-27KIT": {
+    "description": "GEMINI TAPE 300 15FT 2700K KIT",
+    "pdn": 195.95,
+    "umap": 293.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 156.76
+  },
+  "T24-GE3-15-27WT": {
+    "description": "GEMINI TAPE 300 24VDC 2700K 15FT",
+    "pdn": 105.95,
+    "umap": 158.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 84.76
+  },
+  "T24-GE3-15-30KIT": {
+    "description": "GEMINI TAPE 300 15FT 3000K KIT",
+    "pdn": 195.95,
+    "umap": 293.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 156.76
+  },
+  "T24-GE3-15-30WT": {
+    "description": "GEMINI TAPE 300 24VDC 3000K 15FT",
+    "pdn": 105.95,
+    "umap": 158.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 84.76
+  },
+  "T24-GE3-15-35KIT": {
+    "description": "GEMINI TAPE 300 15FT 3500K KIT",
+    "pdn": 195.95,
+    "umap": 293.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 156.76
+  },
+  "T24-GE3-15-35WT": {
+    "description": "GEMINI TAPE 300 24VDC 3500K 15FT",
+    "pdn": 105.95,
+    "umap": 158.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 84.76
+  },
+  "T24-GE3-15-40WT": {
+    "description": "GEMINI TAPE 300 24VDC 4000K 15FT",
+    "pdn": 105.95,
+    "umap": 158.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 84.76
+  },
+  "T24-GE3-24-27WT": {
+    "description": "GEMINI TAPE 300 24VDC 2700K 24FT",
+    "pdn": 162.95,
+    "umap": 243.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 130.36
+  },
+  "T24-GE3-24-30WT": {
+    "description": "GEMINI TAPE 300 24VDC 3000K 24FT",
+    "pdn": 162.95,
+    "umap": 243.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 130.36
+  },
+  "T24-GE3-24-35WT": {
+    "description": "GEMINI TAPE 300 24VDC 3500K 24FT",
+    "pdn": 162.95,
+    "umap": 243.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 130.36
+  },
+  "T24-GE3-24-40WT": {
+    "description": "GEMINI TAPE 300 24VDC 4000K 24FT",
+    "pdn": 162.95,
+    "umap": 243.95,
+    "insiderFlag": false,
+    "insiderPrice": null,
+    "limitedFlag": true,
+    "limitedPrice": 130.36
+  }
+}

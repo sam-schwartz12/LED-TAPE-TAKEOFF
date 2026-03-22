@@ -1,0 +1,187 @@
+{
+  "channels": [
+    {
+      "type": "Shallow Aluminum",
+      "partAL": "LED-T-CH5-AL",
+      "partBK": "LED-T-CH5-BK",
+      "partWT": "LED-T-CH5-WT",
+      "endCap": "LED-T-CH5-EC",
+      "lengthFt": 5
+    },
+    {
+      "type": "Deep Aluminum",
+      "partAL": "LED-T-CH1",
+      "partBK": "LED-T-CH1",
+      "partWT": "LED-T-CH1",
+      "endCap": "LED-T-CH1-EC",
+      "lengthFt": 5
+    },
+    {
+      "type": "Standard Aluminum",
+      "partAL": "LED-T-CH",
+      "partBK": "LED-T-CH",
+      "partWT": "LED-T-CH",
+      "endCap": "LED-T-CH-EC",
+      "lengthFt": 5
+    },
+    {
+      "type": "45° Angled",
+      "partAL": "LED-T-CH2",
+      "partBK": "LED-T-CH2",
+      "partWT": "LED-T-CH2",
+      "endCap": "LED-T-CH2-EC",
+      "lengthFt": 5
+    },
+    {
+      "type": "Spot Optic Deep (9°)",
+      "partAL": "LED-T-CH3-SP",
+      "partBK": "LED-T-CH3-SP",
+      "partWT": "LED-T-CH3-SP",
+      "endCap": "LED-T-CH1-EC",
+      "lengthFt": 5
+    },
+    {
+      "type": "Flood Optic Deep (54°)",
+      "partAL": "LED-T-CH3-FL",
+      "partBK": "LED-T-CH3-FL",
+      "partWT": "LED-T-CH3-FL",
+      "endCap": "LED-T-CH1-EC",
+      "lengthFt": 5
+    },
+    {
+      "type": "Wide Flood Optic (84°)",
+      "partAL": "LED-T-CH3-WF",
+      "partBK": "LED-T-CH3-WF",
+      "partWT": "LED-T-CH3-WF",
+      "endCap": "LED-T-CH1-EC",
+      "lengthFt": 5
+    },
+    {
+      "type": "Trimless Recessed Slim",
+      "partAL": "LED-T-RCH4-WT",
+      "partBK": "LED-T-RCH4-WT",
+      "partWT": "LED-T-RCH4-WT",
+      "endCap": "LED-T-RBOX4-WT",
+      "lengthFt": 5
+    },
+    {
+      "type": "Trimmed Recessed Slim",
+      "partAL": "LED-T-RCH5-AL",
+      "partBK": "LED-T-RCH5-BK",
+      "partWT": "LED-T-RCH5-WT",
+      "endCap": "LED-T-RBOX5",
+      "lengthFt": 5
+    },
+    {
+      "type": "Angled Recessed",
+      "partAL": "LED-T-CH6-AL",
+      "partBK": "LED-T-CH6-BK",
+      "partWT": "LED-T-CH6-WT",
+      "endCap": "LED-T-CH6-EC",
+      "lengthFt": 5
+    },
+    {
+      "type": "No Extrusion (Direct Mount)",
+      "partAL": null,
+      "partBK": null,
+      "partWT": null,
+      "endCap": null,
+      "lengthFt": 0
+    },
+    {
+      "type": "Retrofit Channel (3ft)",
+      "partAL": "LED-T-RC",
+      "partBK": "LED-T-RC",
+      "partWT": "LED-T-RC",
+      "endCap": null,
+      "lengthFt": 3
+    }
+  ],
+  "powerSupplies": [
+    {
+      "family": "Duet",
+      "default96wHW": "PS-24DC-U96R-CS-DU",
+      "default60wHW": "PS-24DC-U60R-CS-DU",
+      "plugIn": "",
+      "powerConnector": "T24-DU-PM-CL",
+      "wiringBox": ""
+    },
+    {
+      "family": "Gemini",
+      "default96wHW": "PS-24DC-U96R-BT",
+      "default60wHW": "PS-24DC-U60R-BT",
+      "plugIn": "PS-24DC-60P-GE",
+      "powerConnector": "T24-BS-PM-CL",
+      "wiringBox": "LED-T-B"
+    },
+    {
+      "family": "Pro+",
+      "default96wHW": "EN-24100-RB2-T",
+      "default60wHW": "EN-2460-RB2-T",
+      "plugIn": "EN-2460-P-AR-T",
+      "powerConnector": "LED-TC-B-2-WT",
+      "wiringBox": "LED-TC-B-2"
+    },
+    {
+      "family": "Pro2+",
+      "default96wHW": "EN-24100-RB2-T",
+      "default60wHW": "EN-2460-RB2-T",
+      "plugIn": "EN-2460-P-AR-T",
+      "powerConnector": "LED-TC-B-2-WT",
+      "wiringBox": "LED-TC-B-2"
+    }
+  ],
+  "lumenOptions": {
+    "Duet": [
+      "100 lm/ft",
+      "200 lm/ft",
+      "300 lm/ft",
+      "400 lm/ft",
+      "600 lm/ft",
+      "1000 lm/ft"
+    ],
+    "Gemini": [
+      "100 lm/ft",
+      "200 lm/ft",
+      "300 lm/ft"
+    ],
+    "Pro+": [
+      "150 lm/ft"
+    ],
+    "Pro2+": [
+      "220 lm/ft"
+    ]
+  },
+  "cctOptions": {
+    "Duet": [
+      "1800K-4000K (A)",
+      "2700K-5000K (B)"
+    ],
+    "Gemini": [
+      "2700K",
+      "3000K",
+      "3500K",
+      "4000K"
+    ],
+    "Pro+": [
+      "2200K",
+      "2700K",
+      "3000K",
+      "3500K",
+      "4500K"
+    ],
+    "Pro2+": [
+      "2200K",
+      "2700K",
+      "3000K",
+      "3500K",
+      "4500K"
+    ]
+  },
+  "defaultSpoolFt": {
+    "Duet": 5,
+    "Gemini": 15,
+    "Pro+": 5,
+    "Pro2+": 5
+  }
+}
