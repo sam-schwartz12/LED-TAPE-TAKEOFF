@@ -4,13 +4,13 @@ import { useEffect, useState, useCallback } from "react";
 import { createClient } from "@/lib/supabase/client";
 import type { Project } from "@/lib/types";
 
+const supabase = createClient();
+
 export function useProjects() {
   const [projects, setProjects] = useState<Project[]>([]);
   const [loading, setLoading] = useState(true);
-  const supabase = createClient();
 
   const fetchProjects = useCallback(async () => {
-    setLoading(true);
     const { data } = await supabase
       .from("projects")
       .select("*")
@@ -18,7 +18,7 @@ export function useProjects() {
 
     if (data) {
       setProjects(
-        data.map((p) => ({
+        (data as Record<string, unknown>[]).map((p) => ({
           id: p.id,
           userId: p.user_id,
           name: p.name,
@@ -33,11 +33,11 @@ export function useProjects() {
           status: p.status,
           createdAt: p.created_at,
           updatedAt: p.updated_at,
-        }))
+        })) as Project[]
       );
     }
     setLoading(false);
-  }, [supabase]);
+  }, []);
 
   useEffect(() => {
     fetchProjects();
@@ -61,7 +61,7 @@ export function useProjects() {
 
       if (error || !data) return null;
 
-      // Create a default room with a default section
+      // Create default room + section in parallel after room is created
       const { data: room } = await supabase
         .from("rooms")
         .insert({
@@ -83,7 +83,7 @@ export function useProjects() {
       await fetchProjects();
       return data.id as string;
     },
-    [supabase, fetchProjects]
+    [fetchProjects]
   );
 
   const deleteProject = useCallback(
@@ -91,7 +91,7 @@ export function useProjects() {
       await supabase.from("projects").delete().eq("id", projectId);
       await fetchProjects();
     },
-    [supabase, fetchProjects]
+    [fetchProjects]
   );
 
   return { projects, loading, createProject, deleteProject, refetch: fetchProjects };

@@ -193,65 +193,62 @@ interface ProjectProviderProps {
   children: ReactNode;
 }
 
+const supabase = createClient();
+
 export function ProjectProvider({ projectId, children }: ProjectProviderProps) {
   const [state, dispatch] = useReducer(reducer, initialState);
-  const supabase = createClient();
   const saveTimerRef = useRef<NodeJS.Timeout | null>(null);
+  const stateRef = useRef(state);
+  stateRef.current = state;
 
-  // Load project data
+  // Load project data — parallel queries
   useEffect(() => {
     const load = async () => {
-      const { data: project } = await supabase
-        .from("projects")
-        .select("*")
-        .eq("id", projectId)
-        .single();
+      // Fetch project and rooms in parallel
+      const [projectRes, roomsRes] = await Promise.all([
+        supabase.from("projects").select("*").eq("id", projectId).single(),
+        supabase.from("rooms").select("*").eq("project_id", projectId).order("sort_order"),
+      ]);
 
-      if (!project) return;
+      if (!projectRes.data) return;
 
-      const { data: rooms } = await supabase
-        .from("rooms")
-        .select("*")
-        .eq("project_id", projectId)
-        .order("sort_order");
+      const rooms = (roomsRes.data ?? []) as Record<string, unknown>[];
+      const roomIds = rooms.map((r) => r.id as string);
 
-      const roomIds = rooms?.map((r) => r.id) ?? [];
-      const { data: sections } = roomIds.length
-        ? await supabase
-            .from("sections")
-            .select("*")
-            .in("room_id", roomIds)
-            .order("sort_order")
-        : { data: [] };
+      // Fetch sections (only if rooms exist)
+      const sections = roomIds.length
+        ? ((await supabase.from("sections").select("*").in("room_id", roomIds).order("sort_order")).data ?? []) as Record<string, unknown>[]
+        : ([] as Record<string, unknown>[]);
 
-      const mappedRooms: Room[] = (rooms ?? []).map((r) => ({
-        id: r.id,
-        projectId: r.project_id,
-        roomName: r.room_name,
-        areaDescription: r.area_description,
-        sortOrder: r.sort_order,
-        sections: (sections ?? [])
+      const mappedRooms = rooms.map((r) => ({
+        id: r.id as string,
+        projectId: r.project_id as string,
+        roomName: r.room_name as string,
+        areaDescription: r.area_description as string | null,
+        sortOrder: r.sort_order as number,
+        sections: sections
           .filter((s) => s.room_id === r.id)
           .map((s) => ({
-            id: s.id,
-            roomId: s.room_id,
-            taskDescription: s.task_description,
-            tapeFamily: s.tape_family,
-            lumenOutput: s.lumen_output,
-            cct: s.cct,
-            runLengthInches: s.run_length_inches,
+            id: s.id as string,
+            roomId: s.room_id as string,
+            taskDescription: s.task_description as string,
+            tapeFamily: s.tape_family as string | null,
+            lumenOutput: s.lumen_output as string | null,
+            cct: s.cct as string | null,
+            runLengthInches: s.run_length_inches as number | null,
             awgGauge: s.awg_gauge as AWGGauge,
-            entryPoints: s.entry_points,
-            distanceToPower: s.distance_to_power,
-            powerType: s.power_type,
-            channelType: s.channel_type,
-            channelFinish: s.channel_finish,
-            diffuserType: s.diffuser_type,
-            connectorColor: s.connector_color,
-            sortOrder: s.sort_order,
+            entryPoints: s.entry_points as number,
+            distanceToPower: s.distance_to_power as number,
+            powerType: s.power_type as string,
+            channelType: s.channel_type as string | null,
+            channelFinish: s.channel_finish as string | null,
+            diffuserType: s.diffuser_type as string | null,
+            connectorColor: s.connector_color as string,
+            sortOrder: s.sort_order as number,
           })),
       }));
 
+      const project = projectRes.data;
       dispatch({
         type: "LOAD_PROJECT",
         payload: {
@@ -271,23 +268,22 @@ export function ProjectProvider({ projectId, children }: ProjectProviderProps) {
             createdAt: project.created_at,
             updatedAt: project.updated_at,
           },
-          rooms: mappedRooms,
+          rooms: mappedRooms as Room[],
         },
       });
     };
 
     load();
-  }, [projectId, supabase]);
+  }, [projectId]);
 
-  // Auto-save with debounce
+  // Save — uses ref to always read latest state, batches DB operations
   const saveProject = useCallback(async () => {
-    if (!state.project) return;
+    const { project, rooms } = stateRef.current;
+    if (!project) return;
     dispatch({ type: "SET_SAVING", payload: true });
 
-    const { project, rooms } = state;
-
     // Save project metadata
-    await supabase
+    const projectPromise = supabase
       .from("projects")
       .update({
         name: project.name,
@@ -303,61 +299,69 @@ export function ProjectProvider({ projectId, children }: ProjectProviderProps) {
       })
       .eq("id", project.id);
 
-    // Sync rooms: delete removed, upsert current
+    // Delete removed rooms
     const existingRoomIds = rooms.map((r) => r.id);
-    await supabase
+    const deleteRoomsPromise = supabase
       .from("rooms")
       .delete()
       .eq("project_id", project.id)
       .not("id", "in", `(${existingRoomIds.join(",")})`);
 
-    for (const room of rooms) {
-      await supabase.from("rooms").upsert({
-        id: room.id,
-        project_id: project.id,
-        room_name: room.roomName,
-        area_description: room.areaDescription,
-        sort_order: room.sortOrder,
-      });
+    await Promise.all([projectPromise, deleteRoomsPromise]);
 
-      // Sync sections
-      const existingSectionIds = room.sections.map((s) => s.id);
-      if (existingSectionIds.length > 0) {
-        await supabase
-          .from("sections")
-          .delete()
-          .eq("room_id", room.id)
-          .not("id", "in", `(${existingSectionIds.join(",")})`);
-      } else {
-        await supabase.from("sections").delete().eq("room_id", room.id);
-      }
-
-      for (const section of room.sections) {
-        await supabase.from("sections").upsert({
-          id: section.id,
-          room_id: room.id,
-          task_description: section.taskDescription,
-          tape_family: section.tapeFamily,
-          lumen_output: section.lumenOutput,
-          cct: section.cct,
-          run_length_inches: section.runLengthInches,
-          awg_gauge: section.awgGauge,
-          entry_points: section.entryPoints,
-          distance_to_power: section.distanceToPower,
-          power_type: section.powerType,
-          channel_type: section.channelType,
-          channel_finish: section.channelFinish,
-          diffuser_type: section.diffuserType,
-          connector_color: section.connectorColor,
-          sort_order: section.sortOrder,
+    // Upsert all rooms in parallel
+    await Promise.all(
+      rooms.map(async (room) => {
+        await supabase.from("rooms").upsert({
+          id: room.id,
+          project_id: project.id,
+          room_name: room.roomName,
+          area_description: room.areaDescription,
+          sort_order: room.sortOrder,
         });
-      }
-    }
+
+        // Delete removed sections
+        const existingSectionIds = room.sections.map((s) => s.id);
+        if (existingSectionIds.length > 0) {
+          await supabase
+            .from("sections")
+            .delete()
+            .eq("room_id", room.id)
+            .not("id", "in", `(${existingSectionIds.join(",")})`);
+        } else {
+          await supabase.from("sections").delete().eq("room_id", room.id);
+        }
+
+        // Upsert all sections for this room in one batch
+        if (room.sections.length > 0) {
+          await supabase.from("sections").upsert(
+            room.sections.map((section) => ({
+              id: section.id,
+              room_id: room.id,
+              task_description: section.taskDescription,
+              tape_family: section.tapeFamily,
+              lumen_output: section.lumenOutput,
+              cct: section.cct,
+              run_length_inches: section.runLengthInches,
+              awg_gauge: section.awgGauge,
+              entry_points: section.entryPoints,
+              distance_to_power: section.distanceToPower,
+              power_type: section.powerType,
+              channel_type: section.channelType,
+              channel_finish: section.channelFinish,
+              diffuser_type: section.diffuserType,
+              connector_color: section.connectorColor,
+              sort_order: section.sortOrder,
+            }))
+          );
+        }
+      })
+    );
 
     dispatch({ type: "SET_LAST_SAVED", payload: new Date().toISOString() });
-  }, [state, supabase]);
+  }, []);
 
-  // Debounced auto-save on state changes
+  // Debounced auto-save — stable saveProject ref means no reset loops
   useEffect(() => {
     if (state.loading || !state.project) return;
 

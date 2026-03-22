@@ -29,7 +29,7 @@ export default function AdminDashboard() {
         supabase.from("projects").select("id"),
       ]);
 
-      const users = profiles.data ?? [];
+      const users = (profiles.data ?? []) as { approved: boolean; insider_access: boolean }[];
       setStats({
         totalUsers: users.length,
         pendingApprovals: users.filter((u) => !u.approved).length,

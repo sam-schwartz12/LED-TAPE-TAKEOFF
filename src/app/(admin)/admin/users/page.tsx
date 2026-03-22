@@ -21,17 +21,17 @@ export default function UserManagementPage() {
 
     if (data) {
       setUsers(
-        data.map((u) => ({
-          id: u.id,
-          email: u.email,
-          fullName: u.full_name || "",
-          role: u.role,
-          approved: u.approved,
-          insiderAccess: u.insider_access,
-          showroomName: u.showroom_name,
-          company: u.company,
-          phone: u.phone,
-          createdAt: u.created_at,
+        (data as Record<string, unknown>[]).map((u) => ({
+          id: u.id as string,
+          email: u.email as string,
+          fullName: (u.full_name as string) || "",
+          role: u.role as UserProfile["role"],
+          approved: u.approved as boolean,
+          insiderAccess: u.insider_access as boolean,
+          showroomName: u.showroom_name as string | null,
+          company: u.company as string | null,
+          phone: u.phone as string | null,
+          createdAt: u.created_at as string,
         }))
       );
     }
