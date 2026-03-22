@@ -4,6 +4,8 @@ import { useEffect, useState } from "react";
 import { createClient } from "@/lib/supabase/client";
 import Link from "next/link";
 
+export const dynamic = "force-dynamic";
+
 interface Stats {
   totalUsers: number;
   pendingApprovals: number;

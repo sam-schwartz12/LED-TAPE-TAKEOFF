@@ -5,6 +5,8 @@ import { createClient } from "@/lib/supabase/client";
 import { formatDate } from "@/lib/utils/format";
 import type { UserProfile } from "@/lib/types";
 
+export const dynamic = "force-dynamic";
+
 export default function UserManagementPage() {
   const [users, setUsers] = useState<UserProfile[]>([]);
   const [loading, setLoading] = useState(true);
