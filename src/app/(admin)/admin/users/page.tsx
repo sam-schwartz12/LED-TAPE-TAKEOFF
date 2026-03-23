@@ -43,10 +43,38 @@ export default function UserManagementPage() {
   }, [fetchUsers]);
 
   const toggleApproved = async (userId: string, currentValue: boolean) => {
+    const newValue = !currentValue;
     await supabase
       .from("profiles")
-      .update({ approved: !currentValue })
+      .update({ approved: newValue })
       .eq("id", userId);
+
+    // Send approval email when approving (not when un-approving)
+    if (newValue) {
+      const user = users.find((u) => u.id === userId);
+      if (user) {
+        try {
+          await fetch(
+            `${process.env.NEXT_PUBLIC_SUPABASE_URL}/functions/v1/resend-email`,
+            {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({
+                type: "user_approved",
+                user_email: user.email,
+                user_name: user.fullName || user.email,
+                user_role: user.role,
+                user_company: user.company || user.showroomName || "",
+              }),
+            }
+          );
+        } catch {
+          // Don't block approval if email fails
+          console.error("Failed to send approval email");
+        }
+      }
+    }
+
     await fetchUsers();
   };
 
