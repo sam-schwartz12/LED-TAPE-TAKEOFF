@@ -201,9 +201,13 @@ export function ProjectProvider({ projectId, children }: ProjectProviderProps) {
   const stateRef = useRef(state);
   stateRef.current = state;
 
-  // Load project data — parallel queries
+  // Load project data — wait for auth, then parallel queries
   useEffect(() => {
     const load = async () => {
+      // Wait for auth session before querying
+      const { data: { user } } = await supabase.auth.getUser();
+      if (!user) return;
+
       // Fetch project and rooms in parallel
       const [projectRes, roomsRes] = await Promise.all([
         supabase.from("projects").select("*").eq("id", projectId).single(),

@@ -39,8 +39,30 @@ export function useProjects() {
     setLoading(false);
   }, []);
 
+  // Wait for auth session to be ready before fetching projects
   useEffect(() => {
-    fetchProjects();
+    // First, wait for the session to be established
+    supabase.auth.getUser().then(({ data: { user } }) => {
+      if (user) {
+        fetchProjects();
+      } else {
+        setLoading(false);
+      }
+    });
+
+    // Also listen for auth changes (login/logout) to refetch
+    const {
+      data: { subscription },
+    } = supabase.auth.onAuthStateChange((_event, session) => {
+      if (session?.user) {
+        fetchProjects();
+      } else {
+        setProjects([]);
+        setLoading(false);
+      }
+    });
+
+    return () => subscription.unsubscribe();
   }, [fetchProjects]);
 
   const createProject = useCallback(
@@ -61,7 +83,7 @@ export function useProjects() {
 
       if (error || !data) return null;
 
-      // Create default room + section in parallel after room is created
+      // Create default room + section
       const { data: room } = await supabase
         .from("rooms")
         .insert({
