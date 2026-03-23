@@ -1,0 +1,92 @@
+{
+  "project": {
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "userId": "user-uuid-here",
+    "name": "Luxury Home Automation",
+    "clientName": "Jane Doe",
+    "clientAddress": "123 Beverly Hills Drive",
+    "showroomName": "Elite Lighting",
+    "salesAssociate": "Sam Schwartz",
+    "quoteNumber": "QT-2026-001",
+    "date": "2026-03-22",
+    "pricingDisplay": "pdn",
+    "customMarkupPercent": null,
+    "status": "draft",
+    "createdAt": "2026-03-22T00:00:00Z",
+    "updatedAt": "2026-03-22T00:00:00Z"
+  },
+  "rooms": [
+    {
+      "id": "r-001",
+      "projectId": "123e4567-e89b-12d3-a456-426614174000",
+      "roomName": "Kitchen",
+      "areaDescription": "Under cabinet lighting and cove",
+      "sortOrder": 1,
+      "sections": [
+        {
+          "id": "s-001",
+          "roomId": "r-001",
+          "taskDescription": "Under Cabinet Right Side",
+          "tapeFamily": "Pro+",
+          "lumenOutput": "300",
+          "cct": "3000K",
+          "runLengthInches": 120,
+          "awgGauge": 14,
+          "entryPoints": 1,
+          "distanceToPower": 15,
+          "powerType": "Hardwired",
+          "channelType": "CH-12",
+          "channelFinish": "AL",
+          "diffuserType": "Frosted",
+          "connectorColor": "WT",
+          "sortOrder": 1
+        },
+        {
+          "id": "s-002",
+          "roomId": "r-001",
+          "taskDescription": "Under Cabinet Left Side",
+          "tapeFamily": "Pro+",
+          "lumenOutput": "300",
+          "cct": "3000K",
+          "runLengthInches": 72,
+          "awgGauge": 14,
+          "entryPoints": 1,
+          "distanceToPower": 10,
+          "powerType": "Hardwired",
+          "channelType": "CH-12",
+          "channelFinish": "AL",
+          "diffuserType": "Frosted",
+          "connectorColor": "WT",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "id": "r-002",
+      "projectId": "123e4567-e89b-12d3-a456-426614174000",
+      "roomName": "Master Bathroom",
+      "areaDescription": "Vanity backlighting",
+      "sortOrder": 2,
+      "sections": [
+        {
+          "id": "s-003",
+          "roomId": "r-002",
+          "taskDescription": "Vanity Mirror Perimeter",
+          "tapeFamily": "Duet",
+          "lumenOutput": "600",
+          "cct": "2700K",
+          "runLengthInches": 180,
+          "awgGauge": 16,
+          "entryPoints": 2,
+          "distanceToPower": 20,
+          "powerType": "Hardwired",
+          "channelType": "CH-45",
+          "channelFinish": "BK",
+          "diffuserType": "Clear",
+          "connectorColor": "BK",
+          "sortOrder": 1
+        }
+      ]
+    }
+  ]
+}
